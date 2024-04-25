@@ -1,0 +1,2 @@
+C:\Users\hironinomiya\Desktop\ShootingGame\Debug\ShootingGame.exe
+C:\Users\hironinomiya\Desktop\ShootingGame\Debug\ShootingGame.pdb

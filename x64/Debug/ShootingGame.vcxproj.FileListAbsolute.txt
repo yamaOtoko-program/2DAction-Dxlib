@@ -1,0 +1,4 @@
+C:\Users\jyoho\Desktop\ShootingGame(学生配布用2020vs19)\x64\Debug\ShootingGame.exe
+C:\Users\yamam\Downloads\ShootingGame(学生配布用2020vs19)\x64\Debug\ShootingGame.exe
+C:\Users\yamam\Downloads\シルバニアファミリー\x64\Debug\ShootingGame.exe
+C:\Users\yamam\Downloads\2D-Dxlib\x64\Debug\ShootingGame.exe

@@ -1,0 +1,14 @@
+﻿  Enemy.cpp
+  HitCheck.cpp
+  Item.cpp
+  LoadMap.cpp
+  Player.cpp
+  pushKey.cpp
+  Shoot.cpp
+  ShootingGame.cpp
+C:\Users\yamam\Downloads\2D-Dxlib\ShootingGame.cpp(1,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+C:\Users\yamam\Downloads\2D-Dxlib\ShootingGame.cpp(50,34): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\yamam\Downloads\2D-Dxlib\ShootingGame.cpp(51,74): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+C:\Users\yamam\Downloads\2D-Dxlib\Player.cpp(269): warning C4715: 'Player::createWeapons': 値を返さないコントロール パスがあります。
+  ShootingGame.vcxproj -> C:\Users\yamam\Downloads\2D-Dxlib\x64\Debug\ShootingGame.exe
